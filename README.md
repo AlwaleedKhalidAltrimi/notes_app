@@ -159,9 +159,13 @@ screenshot3.png
 Example display:
 
 <div align="center">
-  <img src="screenshots/screenshot1.png" width="250" style="margin:10px;">
-  <img src="screenshots/screenshot2.png" width="250" style="margin:10px;">
-  <img src="screenshots/screenshot3.png" width="250" style="margin:10px;">
+  <img src="screenshots/Screenshot1.png" width="250" style="margin:10px;">
+  <img src="screenshots/Screenshot2.png" width="250" style="margin:10px;">
+</div>
+
+<div align="center">
+  <img src="screenshots/Screenshot3.png" width="250" style="margin:10px;">
+  <img src="screenshots/Screenshot4.png" width="250" style="margin:10px;">
 </div>
 
 ---
