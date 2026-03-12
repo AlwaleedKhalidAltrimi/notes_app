@@ -147,17 +147,6 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ## 📷 Screenshots
 
-You can add screenshots of the application interface here.
-
-```
-screenshots/
-screenshot1.png
-screenshot2.png
-screenshot3.png
-```
-
-Example display:
-
 <div align="center">
   <img src="screenshots/Screenshot1.png" width="250" style="margin:10px;">
   <img src="screenshots/Screenshot2.png" width="250" style="margin:10px;">
